@@ -1,5 +1,5 @@
 # tohle je komentář
 
-Tohle je pokus
+Tohle je pokius
 
 # tohle je druhy komentar
