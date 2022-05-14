@@ -1,3 +1,5 @@
 # tohle je komentář
 
 Tohle je pokus
+
+# tohle je druhy komentar
