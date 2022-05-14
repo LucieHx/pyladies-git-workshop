@@ -1,2 +1,5 @@
 tohle je zas novy txt zmena z mainu
+tohle je zas novy txt +zmena
+
 #novy komentar
+toto je novy radek
