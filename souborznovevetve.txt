@@ -1,2 +1,3 @@
-tohle je zas novy txt
+tohle je zas novy txt +zmena
 #novy komentar
+toto je novy radek
